@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Hi! I am Obliviate. I'm Java Bukkit developer. I creating plugins for Minecraft servers and sometimes i selling them. You can benefit my open-source [Inventory](https://github.com/Obliviated/ObliviateInvs) and [SQLite](https://github.com/Obliviated/BlokSQLiteAPI) libraries.
+Hi! I am Hamza. I'm Java Bukkit developer. I creating plugins for Minecraft servers and sometimes i selling them. You can benefit my open-source [Inventory](https://github.com/Obliviated/ObliviateInvs) and [SQLite](https://github.com/Obliviated/BlokSQLiteAPI) libraries.
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Obliviated&count_private=true)](https://github.com/Obliviated)
 
