@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hamza. C, TypeScript and Java developer. I am currently student at [42](https://42.fr/en/homepage/) and [SUBÜ](https://www.subu.edu.tr/tr). You can benefit my open-source [Bukkit Inventory](https://github.com/hamza-cskn/obliviate-invs) library and 42's projects([libft](https://github.com/hamza-cskn/42-libft), [ft_printf](https://github.com/hamza-cskn/42-ft_printf), [get_next_line](https://github.com/hamza-cskn/42-get_next_line), [minitalk](https://github.com/hamza-cskn/42-minitalk)). Also if you know Turkish take a look for my [blogs](https://medium.com/@hamzacoskun41).
+I am Hamza. C, TypeScript and Java developer. I am currently student at [42](https://42.fr/en/homepage/) and [SUBÜ](https://www.subu.edu.tr/tr). You can benefit my open-source [Bukkit Inventory](https://github.com/hamza-cskn/obliviate-invs) library and 42's projects([libft](https://github.com/hamza-cskn/42-libft), [ft_printf](https://github.com/hamza-cskn/42-ft_printf), [get_next_line](https://github.com/hamza-cskn/42-get_next_line), [minitalk](https://github.com/hamza-cskn/42-minitalk), [so_long](https://github.com/hamza-cskn/42-so_long)). Also if you know Turkish take a look for my [blogs](https://medium.com/@hamzacoskun41).
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=hamza-cskn&count_private=true)](https://github.com/hamza-cskn)
 
